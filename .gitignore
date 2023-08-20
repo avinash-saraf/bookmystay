@@ -7,7 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-*/node_modules
+api/node_modules/*
+api/node_modules
+client/node_modules
 node_modules
 dist
 dist-ssr
@@ -27,8 +29,8 @@ dist-ssr
 # env files
 .env
 client/.env
-../api/.env
+api/.env
 
 # uploads folder
-../api/uploads/*
+api/uploads/*
 
