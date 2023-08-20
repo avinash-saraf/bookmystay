@@ -7,9 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-api/node_modules/*
-api/node_modules
-client/node_modules
 node_modules
 dist
 dist-ssr
